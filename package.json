@@ -1,7 +1,7 @@
 {
-  "name": "xzibit",
-  "version": "1.0.1",
-  "description": "A boilerplate to create presentations using cool technologies.",
+  "name": "media-kit-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate to create presentations showing why to sponsor a JS4Girls event.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mabrasil/xzibit.git"
+    "url": "https://github.com/js4girls-fortaleza/media-kit.git"
   },
   "keywords": [
     "Boilerplate",
@@ -44,7 +44,7 @@
   "author": "Matheus Brasil <mabrasil.rocks>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mabrasil/xzibit/issues"
+    "url": "https://github.com/js4girls-fortaleza/media-kit/issues"
   },
-  "homepage": "https://github.com/mabrasil/xzibit"
+  "homepage": "https://github.com/js4girls-fortaleza/media-kit"
 }
