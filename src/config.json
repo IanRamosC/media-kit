@@ -12,14 +12,22 @@
   },
 
   "general": {
-    "attendees":"",
-    "date":"",
+    "attendees":"20",
+    "date":"17 de Outubro",
     "location":{
-      "place":"",
-      "city":"",
-      "state":""
+      "place":"Universidade de Fortaleza",
+      "city":"Fortaleza",
+      "state":"CE"
     }
   },
+
+  "cities": [
+    "São Paulo - SP",
+    "Nova Friburgo - RJ",
+    "Curitiba - PR",
+    "Florianópolis - SC",
+    "São Luís - MA"
+  ],
 
   "plans":[
     {
