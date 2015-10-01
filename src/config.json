@@ -29,7 +29,7 @@
 
   "plans":[
     {
-      "name":"Gold",
+      "name":"Ouro",
       "price":"R$ 350,00",
       "benefits": [
         "Logo da empresa no site",
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "name":"Silver",
+      "name":"Prata",
       "price":"R$ 250,00",
       "benefits": [
         "Logo da empresa no site",
