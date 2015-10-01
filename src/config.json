@@ -1,23 +1,21 @@
 {
   "about": {
-    "title": "My Awesome Presentation",
-    "description": "My Awesome Presentation @ an Awesome Event",
-    "author": "An Awesome Speaker",
+    "title": "JS4Girls Fortaleza",
+    "description": "Evento gratuito para promover inclusão feminina na TI.",
     "site": {
-        "url": "https://github.com/mabrasil/xzibit",
-        "googleAnalytics": "",
-        "cover": "images/meta/screenshot.png",
+        "url": "http://js4girls-fortaleza.github.io/media-kit",
+        "googleAnalytics": "UA-58120604-8",
+        "cover": "images/meta/cover.png",
         "favicon": "images/meta/favicon.png"
-    }
-  },
-
-  "general": {
-    "attendees":"20",
-    "date":"17 de Outubro",
-    "location":{
-      "place":"Universidade de Fortaleza",
-      "city":"Fortaleza",
-      "state":"CE"
+    },
+    "general": {
+      "attendees":"20",
+      "date":"17 de Outubro",
+      "location":{
+        "place":"Universidade de Fortaleza",
+        "city":"Fortaleza",
+        "state":"CE"
+      }
     }
   },
 
@@ -31,58 +29,35 @@
 
   "plans":[
     {
-      "name":"Bronze",
-      "price":"Bronze",
+      "name":"Gold",
+      "price":"R$ 350,00",
       "benefits": [
-        "Benefit 1",
-        "Benefit 2",
-        "Benefit 3"
-        ]
+        "Logo da empresa no site",
+        "Logo da empresa na camisa do evento",
+        "2 Posts na página do evento em mídias sociais",
+        "Flashes da empresa durante os intervalos",
+        "Direito a distribuição de panfletos para as participantes"
+      ]
     },
     {
       "name":"Silver",
-      "price":"Silver",
+      "price":"R$ 250,00",
       "benefits": [
-        "Benefit 1",
-        "Benefit 2",
-        "Benefit 3"
-        ]
+        "Logo da empresa no site",
+        "Logo da empresa na camisa do evento",
+        "1 Post na página do evento em mídias sociais",
+        "Flashes da empresa durante os intervalos"
+      ]
     },
     {
-      "name":"Gold",
-      "price":"Gold",
+      "name":"Bronze",
+      "price":"R$ 150,00",
       "benefits": [
-        "Benefit 1",
-        "Benefit 2",
-        "Benefit 3"
-        ]
+        "Logo da empresa no site",
+        "1 Post na página do evento em mídias sociais",
+        "Flashes da empresa durante os intervalos"
+      ]
     }
-  ],
-
-  "organizers":[
-      {
-         "name":"",
-         "photo":"",
-         "twitter":""
-      },
-      {
-         "name":"",
-         "photo":"",
-         "twitter":""
-      }
-  ],
-
-  "trainers":[
-      {
-         "name":"",
-         "photo":"",
-         "twitter":""
-      },
-      {
-         "name":"",
-         "photo":"",
-         "twitter":""
-      }
   ],
 
   "deploy":{
