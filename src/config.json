@@ -10,6 +10,73 @@
         "favicon": "images/meta/favicon.png"
     }
   },
+
+  "general": {
+    "attendees":"",
+    "date":"",
+    "location":{
+      "place":"",
+      "city":"",
+      "state":""
+    }
+  },
+
+  "plans":[
+    {
+      "name":"Bronze",
+      "price":"Bronze",
+      "benefits": [
+        "Benefit 1",
+        "Benefit 2",
+        "Benefit 3"
+        ]
+    },
+    {
+      "name":"Silver",
+      "price":"Silver",
+      "benefits": [
+        "Benefit 1",
+        "Benefit 2",
+        "Benefit 3"
+        ]
+    },
+    {
+      "name":"Gold",
+      "price":"Gold",
+      "benefits": [
+        "Benefit 1",
+        "Benefit 2",
+        "Benefit 3"
+        ]
+    }
+  ],
+
+  "organizers":[
+      {
+         "name":"",
+         "photo":"",
+         "twitter":""
+      },
+      {
+         "name":"",
+         "photo":"",
+         "twitter":""
+      }
+  ],
+
+  "trainers":[
+      {
+         "name":"",
+         "photo":"",
+         "twitter":""
+      },
+      {
+         "name":"",
+         "photo":"",
+         "twitter":""
+      }
+  ],
+
   "deploy":{
     "rsync":{
       "username":"",
