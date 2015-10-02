@@ -21,8 +21,9 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "reveal.js": "^3.1.0",
     "chartist": "^0.9.4",
+    "reveal.js": "^3.1.0",
+    "sweetalert": "~1.1.0",
     "vivus": "^0.2.2"
   }
 }
