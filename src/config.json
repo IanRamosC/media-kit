@@ -5,7 +5,7 @@
     "site": {
         "url": "http://js4girls-fortaleza.github.io/media-kit",
         "googleAnalytics": "UA-58120604-8",
-        "cover": "images/meta/cover.png",
+        "cover": "http://js4girls-fortaleza.github.io/media-kit/images/meta/cover.png",
         "favicon": "images/meta/favicon.png"
     },
     "general": {
