@@ -1,5 +1,13 @@
 script(type="text/javascript", src="vendor/reveal.js/lib/js/head.min.js")
 script(type="text/javascript", src="vendor/reveal.js/js/reveal.js")
+script(type="text/javascript", src="vendor/sweetalert/dist/sweetalert.min.js")
 script(type="text/javascript", src="scripts/main.js")
-script(type="text/javascript", src="vendor/chartist/dist/chartist.min.js")
-script(type="text/javascript", src="vendor/vivus/dist/vivus.min.js")
+script.
+  swal({
+    title: "Dica de navegação",
+    text: "Use a Barra de Espaço (␣) de seu teclado para navegar :)",
+    confirmButtonText:"Entendido!",
+    timer: 60000,
+    confirmButtonColor: "#d9105a",
+    type: "info"
+  });
